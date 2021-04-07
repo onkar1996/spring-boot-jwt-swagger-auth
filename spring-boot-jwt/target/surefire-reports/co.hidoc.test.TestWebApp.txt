@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: co.hidoc.test.TestWebApp
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.006 s <<< FAILURE! - in co.hidoc.test.TestWebApp
+testEmployee  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.ExceptionInInitializerError
+	at co.hidoc.test.TestWebApp.<clinit>(TestWebApp.java:23)
+
